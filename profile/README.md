@@ -25,15 +25,6 @@ We take the security of our project seriously and appreciate your efforts to dis
 - Our team will investigate the issue and provide a status update within **5 business days**.
 - We aim to resolve confirmed vulnerabilities within **30 days**.
 
-### Handling and Disclosure
-- We will work with you to understand the issue and resolve it.
-- If the vulnerability is valid, we will credit you in our release notes unless you wish to remain anonymous.
-- We may coordinate with other projects and vendors to ensure the issue is addressed comprehensively.
-
-### Public Disclosure
-- We request that you do not publicly disclose the vulnerability until it has been fully addressed.
-- We will work with you on an appropriate timeline for public disclosure once a fix is available.
-
 ---
 
 Thank you for helping to keep our project secure.
