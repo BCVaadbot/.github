@@ -8,20 +8,6 @@ With a mobile app for on-the-go access, VaadBot enhances productivity and provid
 
 # Security Policy
 
-## Supported Versions
-
-The following table lists the versions of the project that are currently supported with security updates. Please ensure you are using one of these versions to receive security patches and updates.
-
-| Version | Supported          |
-| ------- | ------------------ |
-| 30 (1.0)   | :white_check_mark: |
-|29 (1.0)   | :white_check_mark: |
-| < 29 (1.0)   | :x:                |
-
-- **30 (1.0):** This is the latest stable version and is fully supported with security updates. We recommend all users upgrade to this version.
-- **29 (1.0):** While this is an older version, it still receives critical security updates. We recommend upgrading to the latest stable version when possible.
-- **< 29 (1.0):** These versions are deprecated and do not receive any security updates.
-
 ## Reporting a Vulnerability
 
 We take the security of our project seriously and appreciate your efforts to disclose vulnerabilities responsibly. If you discover a security issue, please follow the steps below:
