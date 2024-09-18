@@ -1,12 +1,53 @@
-## Hi there 👋
+# About Project
 
-<!--
+We are excited to introduce VaadBot, a comprehensive software solution for real estate maintenance and management. Designed to streamline operations, it simplifies tasks like maintenance requests, repair tracking, and accounting.
 
-**Here are some ideas to get you started:**
+VaadBot offers a user-friendly interface, customizable features, and real-time updates. Tenants can submit maintenance requests online, and property managers can manage repairs, scheduled tasks, and inventory effortlessly. The software also includes accounting tools to track expenses, generate financial reports, and automate rent reminders.
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+With a mobile app for on-the-go access, VaadBot enhances productivity and provides an efficient solution for property management.
+
+# Security Policy
+
+## Supported Versions
+
+The following table lists the versions of the project that are currently supported with security updates. Please ensure you are using one of these versions to receive security patches and updates.
+
+| Version | Supported          |
+| ------- | ------------------ |
+| 30 (1.0)   | :white_check_mark: |
+|29 (1.0)   | :white_check_mark: |
+| < 29 (1.0)   | :x:                |
+
+- **30 (1.0):** This is the latest stable version and is fully supported with security updates. We recommend all users upgrade to this version.
+- **29 (1.0):** While this is an older version, it still receives critical security updates. We recommend upgrading to the latest stable version when possible.
+- **< 29 (1.0):** These versions are deprecated and do not receive any security updates.
+
+## Reporting a Vulnerability
+
+We take the security of our project seriously and appreciate your efforts to disclose vulnerabilities responsibly. If you discover a security issue, please follow the steps below:
+
+### Contact Information
+- Report vulnerabilities by emailing [security@pumalabs.io](mailto:security@pumalabs.io).
+- Please include the following details:
+  - Description of the vulnerability.
+  - Steps to reproduce the issue.
+  - Potential impact.
+  - Any suggested fixes or mitigation strategies.
+
+### Response Time
+- We will acknowledge receipt of your report within **48 hours**.
+- Our team will investigate the issue and provide a status update within **5 business days**.
+- We aim to resolve confirmed vulnerabilities within **30 days**.
+
+### Handling and Disclosure
+- We will work with you to understand the issue and resolve it.
+- If the vulnerability is valid, we will credit you in our release notes unless you wish to remain anonymous.
+- We may coordinate with other projects and vendors to ensure the issue is addressed comprehensively.
+
+### Public Disclosure
+- We request that you do not publicly disclose the vulnerability until it has been fully addressed.
+- We will work with you on an appropriate timeline for public disclosure once a fix is available.
+
+---
+
+Thank you for helping to keep our project secure.
