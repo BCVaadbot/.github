@@ -1,30 +1,39 @@
-# About Project
+# VaadBot - Property Management App
 
-We are excited to introduce VaadBot, a comprehensive software solution for real estate maintenance and management. Designed to streamline operations, it simplifies tasks like maintenance requests, repair tracking, and accounting.
+**VaadBot** is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
 
-VaadBot offers a user-friendly interface, customizable features, and real-time updates. Tenants can submit maintenance requests online, and property managers can manage repairs, scheduled tasks, and inventory effortlessly. The software also includes accounting tools to track expenses, generate financial reports, and automate rent reminders.
+## Key Features
 
-With a mobile app for on-the-go access, VaadBot enhances productivity and provides an efficient solution for property management.
+- **Payment Management**: Easily collect and track payments from tenants with full transparency of financial operations.
+- **Monthly Reports**: Automated reports enable tenants and managers to keep an eye on the building’s budget and expenses.
+- **Communication Tools**: Utilize forums for discussions, voting, and decision-making among tenants and managers.
+- **Supplier Management**: Directly interact with service providers, manage proposals, payments, and work schedules seamlessly.
 
-# Security Policy
-
-## Reporting a Vulnerability
-
-We take the security of our project seriously and appreciate your efforts to disclose vulnerabilities responsibly. If you discover a security issue, please follow the steps below:
-
-### Contact Information
-- Report vulnerabilities by emailing [security@pumalabs.io](mailto:security@pumalabs.io).
-- Please include the following details:
-  - Description of the vulnerability.
-  - Steps to reproduce the issue.
-  - Potential impact.
-  - Any suggested fixes or mitigation strategies.
-
-### Response Time
-- We will acknowledge receipt of your report within **48 hours**.
-- Our team will investigate the issue and provide a status update within **5 business days**.
-- We aim to resolve confirmed vulnerabilities within **30 days**.
+VaadBot optimizes property management, making life easier for all parties involved, from tenants to service providers.
 
 ---
 
-Thank you for helping to keep our project secure.
+## Security Policy
+
+### Reporting a Vulnerability
+
+We take the security of our project seriously. If you discover a vulnerability, please follow these steps:
+
+#### Contact Information
+- Report vulnerabilities via email: [security@pumalabs.io](mailto:security@pumalabs.io)
+- Include the following details:
+  - Description of the vulnerability
+  - Steps to reproduce the issue
+  - Potential impact
+  - Suggested fixes or mitigation strategies
+
+#### Response Time
+- We will acknowledge receipt of your report within **48 hours**.
+- Our team will investigate and provide a status update within **5 business days**.
+- We aim to resolve confirmed vulnerabilities within **30 days**.
+
+Thank you for helping to keep our project secure!
+
+---
+
+
