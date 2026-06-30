@@ -20,7 +20,7 @@ VaadBot optimizes property management, making life easier for all parties involv
 We take the security of our project seriously. If you discover a vulnerability, please follow these steps:
 
 #### Contact Information
-- Report vulnerabilities via email: [security@pumalabs.io](mailto:security@pumalabs.io)
+- Report vulnerabilities via email: [security@hellsec.dev](mailto:security@hellsec.dev)
 - Include the following details:
   - Description of the vulnerability
   - Steps to reproduce the issue
