@@ -1,39 +1,69 @@
-# VaadBot - Property Management App
+# BCVaadbot
 
-**VaadBot** is a mobile application designed to streamline property management in multi-apartment buildings. It simplifies the work of Homeowners' Associations (HOAs) by facilitating communication, financial tracking, and logistical management. Whether you're a building manager, tenant, accountant, or supplier, VaadBot makes processes more efficient.
+**BCVaadbot** builds digital infrastructure for residential building management in Israel: mobile applications, administrative dashboards, payment workflows, resident communication, document handling, and operational tooling for building committees and property-management teams.
 
-## Key Features
+The organization maintains the codebases behind **VaadBot**, **VaadBit**, and related public information/payment websites.
 
-- **Payment Management**: Easily collect and track payments from tenants with full transparency of financial operations.
-- **Monthly Reports**: Automated reports enable tenants and managers to keep an eye on the building’s budget and expenses.
-- **Communication Tools**: Utilize forums for discussions, voting, and decision-making among tenants and managers.
-- **Supplier Management**: Directly interact with service providers, manage proposals, payments, and work schedules seamlessly.
+## Product Areas
 
-VaadBot optimizes property management, making life easier for all parties involved, from tenants to service providers.
+### VaadBot
+
+VaadBot is a property-management platform for multi-apartment buildings. It helps building committees, residents, suppliers, accountants, and property managers coordinate everyday operations from one digital environment.
+
+Core capabilities include:
+
+- resident and building management;
+- apartment, floor, and profile management;
+- payment and invoice workflows;
+- monthly reporting and financial visibility;
+- documents and forms;
+- forums, polls, and resident communication;
+- supplier and service-provider coordination;
+- administrative workflows for operational teams.
+
+### VaadBit
+
+VaadBit focuses on financial and operational workflows around shared residential buildings, including digital payment flows, administration tools, and supporting mobile/web interfaces.
+
+### BillClick
+
+BillClick is the public business and services layer connected to the broader residential-building management ecosystem.
+
+## Technology Stack
+
+- **Mobile:** Flutter / Dart, with legacy React Native code retained for historical versions.
+- **Frontend/Admin:** SvelteKit, TypeScript, Tailwind, Vite.
+- **Backend:** TypeScript, Bun, Elysia, Node.js, PostgreSQL, Redis.
+- **Infrastructure:** Docker Compose, Nginx, GitHub Actions, DigitalOcean services.
+- **Documentation & public sites:** static websites and knowledge-base style documentation.
+
+## Repository Structure
+
+The organization contains repositories for:
+
+- mobile applications;
+- admin dashboards;
+- backend services;
+- deployment and infrastructure projects;
+- shared server utilities;
+- public marketing and information websites.
+
+Most product repositories are private because they contain active application code and operational logic.
+
+## Security
+
+Security reports can be sent to [security@hellsec.dev](mailto:security@hellsec.dev).
+
+Please include:
+
+- a clear description of the vulnerability;
+- affected area or endpoint, if known;
+- reproduction steps;
+- potential impact;
+- suggested remediation, if available.
+
+We aim to acknowledge valid security reports within **48 hours** and provide a status update within **5 business days**.
 
 ---
 
-## Security Policy
-
-### Reporting a Vulnerability
-
-We take the security of our project seriously. If you discover a vulnerability, please follow these steps:
-
-#### Contact Information
-- Report vulnerabilities via email: [security@hellsec.dev](mailto:security@hellsec.dev)
-- Include the following details:
-  - Description of the vulnerability
-  - Steps to reproduce the issue
-  - Potential impact
-  - Suggested fixes or mitigation strategies
-
-#### Response Time
-- We will acknowledge receipt of your report within **48 hours**.
-- Our team will investigate and provide a status update within **5 business days**.
-- We aim to resolve confirmed vulnerabilities within **30 days**.
-
-Thank you for helping to keep our project secure!
-
----
-
-
+This GitHub organization is maintained for product development, deployment, documentation, and operational support of the VaadBot/VaadBit ecosystem.
